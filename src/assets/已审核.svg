@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>已审核</title>
+    <desc>Created with Sketch.</desc>
+    <g id="审批" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-已审批界面" transform="translate(-15.000000, -249.000000)">
+            <g id="Group-5" transform="translate(15.000000, 249.000000)">
+                <g id="已审核">
+                    <polygon id="Rectangle-13" fill="#D2D2D2" points="0 0 10 0 10 14 5 11.6706543 0 14"></polygon>
+                    <g id="Group-4" transform="translate(2.000000, 4.000000)" fill="#FFFFFF">
+                        <g id="Group-8">
+                            <polygon id="Rectangle-4" transform="translate(4.249901, 2.614060) rotate(45.000000) translate(-4.249901, -2.614060) " points="3.7499012 -0.107566511 4.7499012 -0.107566511 4.7499012 5.33568617 3.7499012 5.33568617"></polygon>
+                            <polygon id="Rectangle-4-Copy" transform="translate(1.823908, 3.323908) scale(-1, 1) rotate(45.000000) translate(-1.823908, -3.323908) " points="1.32390782 1.61504391 2.32390782 1.61504391 2.32390782 5.03277173 1.32390782 5.03277173"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

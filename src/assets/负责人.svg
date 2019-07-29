@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>负责人</title>
+    <desc>Created with Sketch.</desc>
+    <g id="审批" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-已审批界面" transform="translate(-15.000000, -418.000000)">
+            <g id="Group-25-Copy" transform="translate(15.000000, 418.000000)">
+                <g id="负责人">
+                    <polygon id="Rectangle-13" fill="#48D2A0" points="0 0 10 0 10 14 5 11.6706543 0 14"></polygon>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="2" y="5" width="6" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

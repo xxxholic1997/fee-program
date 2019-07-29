@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>yasuo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="审批" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="影像查看" transform="translate(-15.000000, -277.000000)">
+            <g id="Group-3" transform="translate(15.000000, 277.000000)">
+                <g id="yasuo">
+                    <rect id="Rectangle-3" fill="#C3E67E" x="0" y="0" width="50" height="50" rx="6"></rect>
+                    <g id="文件" transform="translate(10.000000, 13.000000)" fill="#FFFFFF">
+                        <path d="M26.8880333,21.0193667 L3.05603333,21.0193667 C2.66403333,21.0193667 2.33303333,20.6883667 2.33303333,20.2963667 L2.33303333,3.08903333 C2.33303333,2.69703333 2.66403333,2.36603333 3.05603333,2.36603333 L22.0360333,2.36603333 L22.0440333,4.89203333 C22.0490333,6.57736667 23.4243667,7.9437 25.1097,7.9387 L27.6110333,7.9307 L27.6110333,20.2963667 C27.6110333,20.6883667 27.2800333,21.0193667 26.8880333,21.0193667 Z M22.7193667,0.0330333333 L3.05603333,0.0330333333 C1.3707,0.0330333333 3.33333333e-05,1.4037 3.33333333e-05,3.08903333 L3.33333333e-05,20.2963667 C3.33333333e-05,21.9817 1.3707,23.3527 3.05603333,23.3527 L26.8880333,23.3527 C28.5733667,23.3527 29.9440333,21.9817 29.9440333,20.2963667 L29.9440333,7.44103333 L22.7193667,0.0330333333 Z" id="Fill-16"></path>
+                        <rect id="Rectangle" fill-rule="nonzero" x="5" y="6" width="10" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-2" fill-rule="nonzero" x="5" y="11" width="19" height="2" rx="1"></rect>
+                        <rect id="Rectangle-Copy-4" fill-rule="nonzero" x="5" y="16" width="15" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

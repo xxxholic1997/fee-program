@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>select</title>
+    <desc>Created with Sketch.</desc>
+    <g id="审批" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7-选择人员" transform="translate(-15.000000, -254.000000)">
+            <g id="Group-3" transform="translate(0.000000, 104.000000)">
+                <g id="Group-10" transform="translate(15.000000, 143.000000)">
+                    <g id="select" transform="translate(0.000000, 7.000000)">
+                        <circle id="Oval-8" fill="#1FA2FF" cx="8" cy="8" r="8"></circle>
+                        <g id="Group-8" transform="translate(3.000000, 4.000000)" fill="#FFFFFF">
+                            <polygon id="Rectangle-4" transform="translate(6.071287, 3.734371) rotate(45.000000) translate(-6.071287, -3.734371) " points="5.35700172 -0.153666444 6.78557315 -0.153666444 6.78557315 7.62240881 5.35700172 7.62240881"></polygon>
+                            <polygon id="Rectangle-4-Copy" transform="translate(2.605583, 4.748440) scale(-1, 1) rotate(45.000000) translate(-2.605583, -4.748440) " points="1.89129689 2.30720558 3.31986831 2.30720558 3.31986831 7.1896739 1.89129689 7.1896739"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

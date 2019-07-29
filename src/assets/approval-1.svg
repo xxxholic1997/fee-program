@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>approval-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="审批" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-左滑审批" transform="translate(-323.000000, -160.000000)">
+            <g id="Group-8" transform="translate(295.000000, 114.000000)">
+                <g id="Group-34" transform="translate(26.000000, 46.000000)">
+                    <g id="approval-1" transform="translate(2.000000, 0.000000)">
+                        <circle id="Oval-3" fill="#48D2A0" cx="12" cy="12" r="12"></circle>
+                        <path d="M10.9137296,15.7035183 C10.7511358,15.856403 10.489551,15.856403 10.3293482,15.7035183 L10.1992731,15.5821099 L10.058199,15.4517083 L9.45325427,14.8806392 L9.44368992,14.8671493 L6.66668261,12.236634 C6.50504519,12.0882459 6.50504519,11.8409325 6.66668261,11.6880479 L7.54182009,10.8651687 C7.70441394,10.7167806 7.96408589,10.7167806 8.1257233,10.8651687 L10.6244082,13.2348808 L15.8752331,8.29310922 C16.0359141,8.14472117 16.2974989,8.14472117 16.4581799,8.29310922 L17.3333174,9.12048499 C17.4949548,9.26887304 17.4949548,9.51618645 17.3333174,9.6690711 L10.9137296,15.7035183 L10.9137296,15.7035183 Z" id="Path" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
